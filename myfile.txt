@@ -4,3 +4,4 @@ commit save status of index -- in branch Issue2
 pull obtain the content of the remote repository -- in branch Issue3
 
 make some chagne
+add some new feature from new branch
